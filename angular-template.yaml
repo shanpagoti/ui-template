@@ -19,7 +19,7 @@ objects:
   spec:
     source:
       git:
-        uri: https://github.com/shanpagoti/ui-template/tree/master/test-application.git
+        uri: https://github.com/shanpagoti/ui-template.git
     strategy: 
       type: "Docker"
     output:
